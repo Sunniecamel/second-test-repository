@@ -1,2 +1,3 @@
 # second-test-repository
-this is my second test repository
+a repository that will be linked with Rstudio
+
